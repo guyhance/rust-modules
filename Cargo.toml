@@ -1,0 +1,8 @@
+[package]
+name = "rust-modules"
+version = "0.0.1"
+authors = ["guyhance"]
+edition = "2018"
+description = "A demo to illustrate how modules work in Rust"
+repository = "https://github.com/guyhance/rust-modules"
+license = "MIT OR Apache-2.0"
